@@ -1,0 +1,13 @@
+th,
+td {
+  padding: 8px;
+  text-align: center;
+}
+
+/* tbody td:first-child {
+  color: red;
+}
+
+tbody td:last-child {
+  color: blue;
+} */
